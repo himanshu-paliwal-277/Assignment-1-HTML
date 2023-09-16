@@ -1,0 +1,18 @@
+Tag :- 
+
+Tag is a building block of a HTML document. using HTML tag we define the structure and layout of and webpage. Tag is two type first one is opening tag and the second one is closing tag.
+
+opening tag:
+<tag_name>
+
+closing tag:
+</tag_name>
+
+Some common tag is: h1-h6, p, hr, br etc tag are HTML provide.
+
+Element :-
+
+The Element is a building block of a HTML document. The Element consist of three things : opening tag , content, and closing tag.
+
+example: 
+<h1>This is a heading </h1>

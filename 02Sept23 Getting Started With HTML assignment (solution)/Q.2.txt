@@ -1,0 +1,21 @@
+Comments in HTML:-
+
+Comment in HTML is used to write some explation in the code so we understand the code and also the other person can understand the code. For example: comment on code "this is a navigation bar of website".
+
+Comment are also used if we do not render some code of HTML in the webpage so we can comment this part of code.
+
+The comment in HTML is written as: 
+
+<!-- This is HTML comments -->
+
+Comments are two types :
+1. Single line comments
+2. Multi line Comments
+
+Multi line comments is similar to single line comment. But it is used for large code.
+
+<!-- This is
+     Multi line
+     comments -->
+
+Also comments are used for some other purpose like : finding an error in code & etc.

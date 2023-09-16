@@ -1,0 +1,6 @@
+DOCTYPE declaration in HTML:-
+
+The DOCTYPE declaration is used to tell about this is a HTML document and the version of HTML we are using. it is not necessary to declare. But it is a good practice to declare.
+
+example:
+<!DOCTYPE html>
